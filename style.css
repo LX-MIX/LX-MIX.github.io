@@ -1,10 +1,13 @@
 body {
  display: flex；
+}
+body {
  flex-direction:column;
 }
-
 main {
  display: flex；
+}
+main {
   flex:auto;
 }
 aside{flex:1;}
