@@ -1,18 +1,12 @@
-
-
-aside {
-    display: flex；
-     flex-direction: row；
-  }
-article {
-    display: flex；
-     flex-direction: row-reverse；
+main {
+     display: flex;
+    flex-direction: row;
   }
   header{
-    display: flex；
-    justify-content:center；
+    display: flex;
+    justify-content:center;
       }   
 footer{
-  display: flex；
-  justify-content:center；
+  display: flex;
+  justify-content:center;
     }
