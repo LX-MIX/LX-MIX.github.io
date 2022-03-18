@@ -5,7 +5,7 @@ body {
 
 main {
  display: flex；
-  flex:auto
+  flex:auto;
 }
 aside { flex:1；}
 article { flex:3；}
