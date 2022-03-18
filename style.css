@@ -2,7 +2,19 @@
 main {
     display: flex；
         flex: auto；
+  }
+body {
+    display: flex；
+        flex: auto；
+     flex-direction: column；
+  }
+aside {
+    display: flex；
      flex-direction: row；
+  }
+article {
+    display: flex；
+     flex-direction: row-reverse；
   }
   header{
     display: flex；
