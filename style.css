@@ -1,12 +1,5 @@
 
-main {
-    display: flex；
-        flex: auto；
-  }
-body {
-    display: flex；
-     flex-direction: column；
-  }
+
 aside {
     display: flex；
      flex-direction: row；
