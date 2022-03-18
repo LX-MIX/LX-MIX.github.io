@@ -1,13 +1,14 @@
 
 main {
     display: flex；
-     flex-direction: row;
+        flex: auto；
+     flex-direction: row；
   }
   header{
-    display: flex;
-    justify-content:center;
+    display: flex；
+    justify-content:center；
       }   
 footer{
-  display: flex;
-  justify-content:center;
+  display: flex；
+  justify-content:center；
     }
