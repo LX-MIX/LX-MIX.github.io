@@ -5,7 +5,6 @@ main {
   }
 body {
     display: flex；
-        flex: auto；
      flex-direction: column；
   }
 aside {
